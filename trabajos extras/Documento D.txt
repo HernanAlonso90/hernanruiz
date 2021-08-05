@@ -1,0 +1,2 @@
+Documento C
+Este es el documento nuevo.
