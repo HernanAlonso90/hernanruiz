@@ -1,2 +1,2 @@
 # hernanruiz
-___PROYECTO GIT HERNAN___.
+___PROYECTO GIT HERNÁN___.
